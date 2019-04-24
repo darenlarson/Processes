@@ -1,0 +1,2 @@
+The PARENT process wrote this string 
+The CHILD process wrote this string
